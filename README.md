@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iammihir
-- 👀 I’m interested in Competitive Programming & Core Civil Engineering 
+- 👀 I’m interested in Consulting and Product Management. 
 - 🌱 I’m currently learning CP, Python & JavaScript.
 - 📫 How to reach me - @mihirkc on LinkedIn
 
